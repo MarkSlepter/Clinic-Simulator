@@ -1,5 +1,3 @@
-# TeachMeSkills_C26_Lesson_8_HW
-This repository contains my homework assignment number 7
 # Task
 Create a program to simulate the work of a clinic. 
 Let there be three doctors in the clinic: a surgeon, an internist, and a dentist.
